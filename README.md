@@ -11,7 +11,7 @@ Providing an accurate and robust solution to this challenge has immense economic
 
 **Evaluation**
 
-The evaluation metric for this competition is Root Mean Square Error. Root Mean Square Error (RMSE) is commonly used in regression analysis and forecasting, and measures the standard deviation of the residuals arising between predicted and actual observed values for a modelling process. For our task of generating user movie ratings via recommendation algorithms, the formula is given by:
+The evaluation metric for this project is Root Mean Square Error. Root Mean Square Error (RMSE) is commonly used in regression analysis and forecasting, and measures the standard deviation of the residuals arising between predicted and actual observed values for a modelling process. For our task of generating user movie ratings via recommendation algorithms, the formula is given by:
 
 ![image](https://github.com/user-attachments/assets/74a31904-b958-460e-b2bd-a4047f44f949)
 
